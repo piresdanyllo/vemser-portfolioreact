@@ -1,0 +1,14 @@
+ul {
+    list-style: none;
+    text-align: center;
+}
+
+ul li {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+li span:first-child {
+    padding: 10px 0;
+}
